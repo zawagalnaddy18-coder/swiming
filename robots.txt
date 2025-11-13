@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://swiming-6yz.pages.dev/sitemap.xml
